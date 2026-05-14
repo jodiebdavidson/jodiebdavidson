@@ -1,4 +1,4 @@
-## Hi there 👋 I am an early career, but experienced IT Support Engineer and Data Analyst looking for career growth and new opportunities.  Technology prototyping and experimentation is my passion, and I am always looking for ways to advance my developer capabilities.
+## Hi there 👋 I am an experienced IT Support Engineer and Data Analyst looking for career growth and new opportunities.  Technology prototyping and experimentation is my passion, and I am always looking to advance my developer capabilities.
 
 <!--
 **jodiebdavidson/jodiebdavidson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
